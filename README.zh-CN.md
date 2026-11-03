@@ -8,15 +8,15 @@ Shanghai Scout 是一个在上海维护的独立英文旅行网站，为初次�
 
 ## 精选专题：沿苏州河，慢慢认识上海
 
-[![上海苏州河专题插画总览，展示滨河公园、天安千树、M50 与外白渡桥](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
+[![上海苏州河步行攻略插画地图，展示天安千树、M50 创意园与外白渡桥](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
 
-从滨河公园、工业旧址到艺术空间与历史建筑，我们的 **苏州河专题** 用十一处地点插画和可交互的地点介绍，呈现另一面的上海。
+用 **上海苏州河步行攻略与插画地图** 规划一段自己的城市漫步。从滨河公园、工业旧址到艺术空间与历史建筑，专题提供十一处地点插画和可交互的地点介绍。英文读者也可以通过 **Suzhou River** 或 **Suzhou Creek** 认识这条上海水道。
 
 - 根据可用时间，选择短途步行、艺术与建筑半日，或串联精选地点的一天。
 - 认识 **天安千树、M50 创意园、外白渡桥** 等沿河地点。
-- 先用插画总览挑选感兴趣的地点，再到官网规划适合自己的路线。
+- 到官网查看路线选项、地点说明和河岸不同区段之间的交通安排。
 
-**[打开苏州河攻略 →](https://shanghaiscout.com/suzhou-river/)** · [查看独立专题介绍](suzhou-river/README.zh-CN.md)
+**[查看上海苏州河步行路线与插画地图 →](https://shanghaiscout.com/suzhou-river/)** · [查看独立专题介绍](suzhou-river/README.zh-CN.md)
 
 *上图为专题中的编辑插画预览。点击后可在官网使用交互地图并阅读完整攻略。*
 

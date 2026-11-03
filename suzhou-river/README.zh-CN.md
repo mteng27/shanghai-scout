@@ -1,12 +1,12 @@
-# 沿苏州河，慢慢认识上海
+# 上海苏州河步行攻略与插画地图
 
 **Shanghai Scout · 苏州河插画专题**
 
-从滨河公园、工业旧址到艺术空间与历史建筑，用一条河认识经典天际线之外的上海。
+用插画地图和十一处地点介绍，挑选适合自己的 **上海苏州河步行路线**。苏州河的英文名是 **Suzhou River**，也称 **Suzhou Creek**；沿河的公园、工业旧址、艺术空间与历史建筑，让游客认识经典天际线之外的上海。
 
-**[打开交互攻略 →](https://shanghaiscout.com/suzhou-river/)** · [English introduction](README.md) · [了解 Shanghai Scout](../README.zh-CN.md)
+**[打开上海苏州河步行路线与交互地图 →](https://shanghaiscout.com/suzhou-river/)** · [English introduction](README.md) · [了解 Shanghai Scout](../README.zh-CN.md)
 
-[![Shanghai Scout 苏州河插画总览，呈现滨河公园、天安千树、M50 与外白渡桥](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
+[![Shanghai Scout 上海苏州河步行路线插画地图，展示天安千树、M50 创意园与外白渡桥](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
 
 *专题编辑插画预览。点击后可在官网探索交互版本。*
 
@@ -33,11 +33,11 @@
 - 再次到访，对建筑、艺术或城市变化有兴趣的游客。
 - 喜欢少安排几个地点，给散步和停留留出余地的人。
 
-## 阅读完整攻略
+## 规划你的苏州河漫步
 
 完整路线选项、交互地图和地点说明都在 Shanghai Scout 官网。攻略为英文，免费使用，无需注册。
 
-**[进入苏州河专题 →](https://shanghaiscout.com/suzhou-river/)**
+**[阅读完整苏州河攻略并探索地图 →](https://shanghaiscout.com/suzhou-river/)**
 
 [了解 Shanghai Scout](../README.zh-CN.md) · [访问官网](https://shanghaiscout.com/) · [联系](https://shanghaiscout.com/contact/)
 

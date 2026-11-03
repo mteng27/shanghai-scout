@@ -1,12 +1,12 @@
-# Suzhou River, Shanghai
+# Suzhou River Shanghai: Walking Routes & Illustrated Map
 
 **The illustrated river edition by Shanghai Scout.**
 
-A different way into Shanghai: explore riverside parks, industrial heritage, art spaces and historic architecture along Suzhou River, also known as Suzhou Creek.
+Plan a self-guided walk along **Suzhou River, also known as Suzhou Creek, in Shanghai**. This English-language guide combines an illustrated map, eleven places to explore and flexible outings through riverside parks, industrial heritage, art spaces and historic architecture.
 
-**[Open the interactive guide →](https://shanghaiscout.com/suzhou-river/)** · [中文介绍](README.zh-CN.md) · [About Shanghai Scout](../README.md)
+**[Explore Suzhou River walking routes →](https://shanghaiscout.com/suzhou-river/)** · [中文介绍](README.zh-CN.md) · [About Shanghai Scout](../README.md)
 
-[![Shanghai Scout's illustrated Suzhou River overview, showing riverside parks, 1000 Trees, M50 and Waibaidu Bridge](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
+[![Shanghai Scout illustrated Suzhou River map in Shanghai, featuring 1000 Trees, M50 Creative Park and Waibaidu Bridge](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
 
 *An editorial illustration from the guide. Explore the interactive edition on the website.*
 
@@ -33,11 +33,11 @@ The illustration is a way to explore the places; use a live map for navigation. 
 - Return visitors looking for architecture, art and a different view of the city.
 - Travelers who enjoy choosing a few places and leaving room to wander.
 
-## Explore the guide
+## Plan your Suzhou River walk
 
 The complete route options, interactive map and place notes are available on Shanghai Scout. The guide is in English, free to use and requires no account.
 
-**[Explore the Suzhou River edition →](https://shanghaiscout.com/suzhou-river/)**
+**[Read the full walking guide and explore the map — Shanghai Scout →](https://shanghaiscout.com/suzhou-river/)**
 
 [More about Shanghai Scout](../README.md) · [Website](https://shanghaiscout.com/) · [Contact](https://shanghaiscout.com/contact/)
 

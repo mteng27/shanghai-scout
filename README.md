@@ -8,15 +8,15 @@ An independent English-language travel guide to Shanghai, with illustrated city 
 
 ## Featured guide: A day along Suzhou River
 
-[![Illustrated overview of Shanghai's Suzhou River, with riverside parks, 1000 Trees, M50 and Waibaidu Bridge](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
+[![Illustrated Suzhou River map in Shanghai, with 1000 Trees, M50 Creative Park and Waibaidu Bridge](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
 
-Explore Shanghai through its riverfront parks, former industrial spaces, art and architecture. Our **Suzhou River / Suzhou Creek** edition brings together eleven illustrated places, with interactive place details on the website.
+Plan a **self-guided Suzhou River walk in Shanghai**, from riverside parks and former industrial spaces to art and historic architecture. Also known as **Suzhou Creek**, this Shanghai waterway is the setting for our illustrated map and eleven interactive place introductions.
 
 - Choose a short walk, an art-and-architecture half day, or selected stops across a full day.
 - Discover places such as **1000 Trees, M50 Creative Park and Waibaidu Bridge**.
-- Use the illustrated overview to explore the collection, then plan your outing with the guide.
+- Open the guide for route options, place notes and practical connections between stretches of the river.
 
-**[Explore the Suzhou River guide →](https://shanghaiscout.com/suzhou-river/)** · [Read the standalone introduction](suzhou-river/README.md)
+**[Suzhou River walking routes and illustrated map — Shanghai Scout →](https://shanghaiscout.com/suzhou-river/)** · [Read the standalone introduction](suzhou-river/README.md)
 
 *An editorial illustration from the river edition. The interactive guide opens on Shanghai Scout.*
 
@@ -33,7 +33,7 @@ A first visit, a short stay or another chance to explore: build a trip around th
 | Collection | What it helps you do |
 | --- | --- |
 | [Travel guides](https://shanghaiscout.com/guides/) | Make decisions about arrival, transport, payments, food and sightseeing. |
-| [Suzhou River edition](https://shanghaiscout.com/suzhou-river/) | Explore an illustrated river route through Shanghai's architecture and neighborhoods. |
+| [Suzhou River walking guide](https://shanghaiscout.com/suzhou-river/) | Choose a Shanghai river walk with an illustrated map, architecture and neighborhood stops. |
 | [Museum edition](https://shanghaiscout.com/museums/) | Compare museums, locations and reservation requirements. |
 | [Local experiences](https://shanghaiscout.com/experiences/) | Find a coffee stop, a craft experience or another reason to slow down. |
 
