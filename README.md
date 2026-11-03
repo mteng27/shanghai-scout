@@ -6,6 +6,20 @@ An independent English-language travel guide to Shanghai, with illustrated city 
 
 **[Explore Shanghai Scout →](https://shanghaiscout.com/)** · [Travel guides](https://shanghaiscout.com/guides/) · [Planning tools](https://shanghaiscout.com/tools/) · [中文介绍](README.zh-CN.md)
 
+## Featured guide: A day along Suzhou River
+
+[![Illustrated overview of Shanghai's Suzhou River, with riverside parks, 1000 Trees, M50 and Waibaidu Bridge](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
+
+Explore Shanghai through its riverfront parks, former industrial spaces, art and architecture. Our **Suzhou River / Suzhou Creek** edition brings together eleven illustrated places, with interactive place details on the website.
+
+- Choose a short walk, an art-and-architecture half day, or selected stops across a full day.
+- Discover places such as **1000 Trees, M50 Creative Park and Waibaidu Bridge**.
+- Use the illustrated overview to explore the collection, then plan your outing with the guide.
+
+**[Explore the Suzhou River guide →](https://shanghaiscout.com/suzhou-river/)**
+
+*An editorial illustration from the river edition. The interactive guide opens on Shanghai Scout.*
+
 ## Find your Shanghai
 
 A first visit, a short stay or another chance to explore: build a trip around the time you have and the places that interest you.

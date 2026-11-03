@@ -6,6 +6,20 @@ Shanghai Scout 是一个在上海维护的独立英文旅行网站，为初次�
 
 **[访问官网 →](https://shanghaiscout.com/)** · [English introduction](README.md)
 
+## 精选专题：沿苏州河，慢慢认识上海
+
+[![上海苏州河专题插画总览，展示滨河公园、天安千树、M50 与外白渡桥](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
+
+从滨河公园、工业旧址到艺术空间与历史建筑，我们的 **苏州河专题** 用十一处地点插画和可交互的地点介绍，呈现另一面的上海。
+
+- 根据可用时间，选择短途步行、艺术与建筑半日，或串联精选地点的一天。
+- 认识 **天安千树、M50 创意园、外白渡桥** 等沿河地点。
+- 先用插画总览挑选感兴趣的地点，再到官网规划适合自己的路线。
+
+**[打开苏州河攻略 →](https://shanghaiscout.com/suzhou-river/)**
+
+*上图为专题中的编辑插画预览。点击后可在官网使用交互地图并阅读完整攻略。*
+
 ## 适合怎样的旅行
 
 - **初次来上海：** 把经典景点、住宿区域和交通安排连成可执行的行程。
