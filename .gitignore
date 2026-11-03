@@ -1,0 +1,5 @@
+# This repository publishes only the project introduction files.
+/*
+!/.gitignore
+!/README.md
+!/README.zh-CN.md
