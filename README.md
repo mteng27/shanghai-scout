@@ -16,7 +16,7 @@ Explore Shanghai through its riverfront parks, former industrial spaces, art and
 - Discover places such as **1000 Trees, M50 Creative Park and Waibaidu Bridge**.
 - Use the illustrated overview to explore the collection, then plan your outing with the guide.
 
-**[Explore the Suzhou River guide →](https://shanghaiscout.com/suzhou-river/)**
+**[Explore the Suzhou River guide →](https://shanghaiscout.com/suzhou-river/)** · [Read the standalone introduction](suzhou-river/README.md)
 
 *An editorial illustration from the river edition. The interactive guide opens on Shanghai Scout.*
 
