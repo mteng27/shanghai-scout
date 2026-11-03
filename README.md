@@ -1,16 +1,26 @@
-# Shanghai Scout
+# Shanghai Scout — Shanghai Travel Guide for First-Time Visitors
 
-**Discover Shanghai, at your own pace.**
+**Your first trip to Shanghai, at your own pace.**
 
-An independent English-language travel guide to Shanghai, with illustrated city walks and practical tools for planning your visit.
+Planning your first trip to Shanghai? Shanghai Scout is an independent English-language guide to choosing where to stay, building an itinerary, finding things to do and preparing for arrival. Practical planning tools and illustrated city walks help you put those choices together.
 
-**[Explore Shanghai Scout →](https://shanghaiscout.com/)** · [Travel guides](https://shanghaiscout.com/guides/) · [Planning tools](https://shanghaiscout.com/tools/) · [中文介绍](README.zh-CN.md)
+**[Plan your first trip to Shanghai →](https://shanghaiscout.com/)** · [Travel guides](https://shanghaiscout.com/guides/) · [Planning tools](https://shanghaiscout.com/tools/) · [中文介绍](README.zh-CN.md)
+
+## Plan your first trip to Shanghai
+
+| Your first-visit question | Start here |
+| --- | --- |
+| How should I arrange the days? | [Shanghai itinerary for first-time visitors](https://shanghaiscout.com/guides/shanghai-3-day-itinerary-first-time/) — a flexible three-day example to adapt to your stay. |
+| Which area should I stay in? | [Where to stay in Shanghai for first-time visitors](https://shanghaiscout.com/guides/where-to-stay-in-shanghai-first-time/) — compare neighborhoods and practical bases. |
+| What should I see and do? | [Things to do in Shanghai](https://shanghaiscout.com/guides/things-to-do-in-shanghai/) — choose classic sights and experiences that interest you. |
+| How do I get to the city? | [Shanghai airport to city guide](https://shanghaiscout.com/guides/shanghai-airport-to-city-guide/) — compare arrival and transfer options. |
+| How do I pay during the trip? | [How to pay in Shanghai as a foreign visitor](https://shanghaiscout.com/guides/how-to-pay-in-shanghai-as-a-foreigner/) — prepare payments and a backup. |
 
 ## Featured guide: A day along Suzhou River
 
 [![Illustrated Suzhou River map in Shanghai, with 1000 Trees, M50 Creative Park and Waibaidu Bridge](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
 
-Plan a **self-guided Suzhou River walk in Shanghai**, from riverside parks and former industrial spaces to art and historic architecture. Also known as **Suzhou Creek**, this Shanghai waterway is the setting for our illustrated map and eleven interactive place introductions.
+Add a **self-guided Suzhou River walk** to your first Shanghai itinerary when you want time beyond the classic sights. Also known as **Suzhou Creek**, this Shanghai waterway brings together riverside parks, art and historic architecture in an illustrated map with eleven interactive place introductions.
 
 - Choose a short walk, an art-and-architecture half day, or selected stops across a full day.
 - Discover places such as **1000 Trees, M50 Creative Park and Waibaidu Bridge**.
@@ -22,7 +32,7 @@ Plan a **self-guided Suzhou River walk in Shanghai**, from riverside parks and f
 
 ## Find your Shanghai
 
-A first visit, a short stay or another chance to explore: build a trip around the time you have and the places that interest you.
+Start with the first-visit guides, then build a trip around your time and interests. Short stays and return visits can use the same tools and choose a different pace.
 
 - **First visits:** connect the classic sights with a useful hotel base and a manageable itinerary.
 - **Deeper exploring:** spend more time in neighborhoods, museums and local experiences.

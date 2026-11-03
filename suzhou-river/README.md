@@ -33,6 +33,10 @@ The illustration is a way to explore the places; use a live map for navigation. 
 - Return visitors looking for architecture, art and a different view of the city.
 - Travelers who enjoy choosing a few places and leaving room to wander.
 
+## Add a river walk to your first Shanghai trip
+
+Choose one river stretch alongside the classic sights, with time for a meal or a break. Start with the [Shanghai itinerary for first-time visitors](https://shanghaiscout.com/guides/shanghai-3-day-itinerary-first-time/), then choose the outing that fits your available time. The three-day plan is a flexible example for a first visit.
+
 ## Plan your Suzhou River walk
 
 The complete route options, interactive map and place notes are available on Shanghai Scout. The guide is in English, free to use and requires no account.

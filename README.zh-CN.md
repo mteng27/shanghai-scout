@@ -1,16 +1,26 @@
-# Shanghai Scout
+# Shanghai Scout — 第一次去上海的英文旅行指南
 
-**按自己的节奏，发现上海。**
+**第一次来上海，也能按自己的节奏旅行。**
 
-Shanghai Scout 是一个在上海维护的独立英文旅行网站，为初次到访、短暂停留和希望深入探索的国际游客提供旅行指南、插画步行路线与实用规划工具。
+Shanghai Scout 是一个在上海维护的独立英文旅行网站，重点帮助第一次来上海的国际游客安排路线、选择住宿区域、寻找值得体验的地方，并准备机场交通与支付。实用规划工具和插画步行专题，让这些选择更容易连成一段旅行。
 
-**[访问官网 →](https://shanghaiscout.com/)** · [English introduction](README.md)
+**[开始规划第一次上海旅行 →](https://shanghaiscout.com/)** · [English introduction](README.md)
+
+## 第一次来上海，从这些问题开始
+
+| 初游问题 | 对应指南 |
+| --- | --- |
+| 几天时间怎样安排？ | [上海初游行程](https://shanghaiscout.com/guides/shanghai-3-day-itinerary-first-time/)：以可调整的三日示例为起点，按实际停留时间取舍。 |
+| 第一次来上海住哪里？ | [初游住宿区域指南](https://shanghaiscout.com/guides/where-to-stay-in-shanghai-first-time/)：比较街区和适合自己的交通基地。 |
+| 上海有哪些值得去的地方？ | [上海游览与体验选择](https://shanghaiscout.com/guides/things-to-do-in-shanghai/)：从经典景点和兴趣出发，挑选体验。 |
+| 机场怎样去市区？ | [上海机场进城指南](https://shanghaiscout.com/guides/shanghai-airport-to-city-guide/)：比较抵达与接驳方式。 |
+| 外国游客怎样付款？ | [上海旅行支付指南](https://shanghaiscout.com/guides/how-to-pay-in-shanghai-as-a-foreigner/)：准备支付方式与备用方案。 |
 
 ## 精选专题：沿苏州河，慢慢认识上海
 
 [![上海苏州河步行攻略插画地图，展示天安千树、M50 创意园与外白渡桥](https://shanghaiscout.com/assets/suzhou-creek/suzhou-creek-shanghai-illustrated-map-v1.webp)](https://shanghaiscout.com/suzhou-river/)
 
-用 **上海苏州河步行攻略与插画地图** 规划一段自己的城市漫步。从滨河公园、工业旧址到艺术空间与历史建筑，专题提供十一处地点插画和可交互的地点介绍。英文读者也可以通过 **Suzhou River** 或 **Suzhou Creek** 认识这条上海水道。
+在第一次上海旅行中，为 **苏州河城市漫步** 留出一段时间，可以在经典景点之外认识滨河公园、艺术空间与历史建筑。专题用插画地图和十一处可交互的地点介绍帮助游客挑选路线，英文名称包括 **Suzhou River** 和 **Suzhou Creek**。
 
 - 根据可用时间，选择短途步行、艺术与建筑半日，或串联精选地点的一天。
 - 认识 **天安千树、M50 创意园、外白渡桥** 等沿河地点。
